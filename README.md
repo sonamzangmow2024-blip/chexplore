@@ -80,3 +80,5 @@ This project can be developed using:
 
 # Educational Objective
 CHEXPLORE aims to make chemistry learning easier, safer, and more enjoyable by combining science education with interactive technology and game-based learning.
+
+-sorry still woring on it
